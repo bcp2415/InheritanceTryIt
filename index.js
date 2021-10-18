@@ -1,6 +1,7 @@
 class Felidae {
 	constructor() {
 		this.claws = "retractable";
+    this.otherthing = "not inherited";
 	}
 }
 
